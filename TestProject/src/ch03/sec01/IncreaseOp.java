@@ -35,6 +35,9 @@ public class IncreaseOp {
 		System.out.println("z ="+z); //15+8
 		System.out.println("x ="+x); //15
 		System.out.println("y ="+y); //9
+		
+		//비트 반전 연산자
+		System.out.println("10을 ~ 연산 적용하면?" + ~10); //-11결과 이유는? 내부적으로 비트로 만들어놓고 0은 1로 1은 0으로?
 	}
 
 }
