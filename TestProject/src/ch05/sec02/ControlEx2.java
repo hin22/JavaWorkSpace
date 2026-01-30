@@ -38,7 +38,7 @@ public class ControlEx2 {
 					break;
 					
 				case 3 : //잔고
-					System.out.printf("잔고>%d ", balance);
+					System.out.printf("잔고>%d%n ", balance);
 					break;
 					
 				case 4 : //종료

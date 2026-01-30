@@ -84,7 +84,7 @@ public class ArrayEx {
 		
 		//배열의 크기 : length 속성
 		System.out.println("flowers 배열의 크기 : "+flowers.length);
-		System.out.println("길이가 없는(0인) 배열의 length 속성 : "+flowers.length); //??여기 0이나오던데
+		System.out.println("길이가 없는(0인) 배열의 length 속성 :  " + score2.length);
 	}
 
 }
