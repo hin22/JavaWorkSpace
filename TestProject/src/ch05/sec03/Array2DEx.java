@@ -5,8 +5,8 @@ public class Array2DEx {
 
 	public static void main(String[] args) {
 		// 2차원 배열 연습문제1
-		Scanner sc = new Scanner(System.in)
-				;
+		Scanner sc = new Scanner(System.in);
+		
 		String[][] word = {
 				{"chair","의자"},
 				{"computer","컴퓨터"},

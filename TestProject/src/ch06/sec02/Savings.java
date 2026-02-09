@@ -9,7 +9,7 @@ public class Savings {
 	private int balance;
 	
 	public void setName(String n) {
-		name = "n";
+		name = n;
 	}
 	public void setBalance(int b) {
 		balance = b;

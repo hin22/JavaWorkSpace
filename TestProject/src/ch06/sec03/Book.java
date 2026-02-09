@@ -24,5 +24,10 @@ public class Book {
 	
 	public void getBook() {
 		//책 정보 반환 메소드
+		// 직원이 직접 전광판에 뿌려주는 방식 (void니까!)
+	    System.out.println("--- 도서 정보 ---");
+	    System.out.println("제 목 : " + title);
+	    System.out.println("저 자 : " + author);
+	    System.out.println("가 격 : " + price);
 	}
 }
